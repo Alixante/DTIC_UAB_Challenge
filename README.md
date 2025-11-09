@@ -31,7 +31,7 @@ python main.py
 ## 🛠️ Construido Con
 
 - [Python](https://www.python.org/) - Lenguaje de programación
-- [SqLite](https://www.https://sqlite.org//) - Sistema de base de datos
+- [SQLite](https://www.https://sqlite.org//) - Sistema de base de datos
 - [Oracle Cloud Infrastructure] (https://www.oracle.com/cloud/) - Servidor
 ---
 
