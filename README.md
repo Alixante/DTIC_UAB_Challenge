@@ -2,25 +2,6 @@
 
 Una web app que resumeix i visualitza el sistema de access points de la universitat
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![Coverage](https://img.shields.io/badge/coverage-95%25-blue)
-
----
-
-## 🧠 Descripción
-
-Una descripción más detallada y técnica del proyecto, incluyendo sus principales características, su propósito y cómo funciona.
-
----
-
-## 🖼️ Visuales
-
-| Vista principal       | Función destacada           |
-| --------------------- | --------------------------- |
-| ![main](img/main.png) | ![feature](img/feature.gif) |
-
----
-
 ## 🚀 Empezando
 
 Estas instrucciones te guiarán para obtener una copia de este proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
