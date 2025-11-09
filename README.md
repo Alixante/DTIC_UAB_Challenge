@@ -1,7 +1,7 @@
 # 📌 DTIC UAB The Hack! Challenge
 
 Una web app que resumeix i visualitza el sistema de access points de la universitat
-Una web app que resume y visualiza el sistema de _access points__ de la universidad
+Una web app que resume y visualiza el sistema de _access points_ de la universidad
 
 ## 🚀 Empezando
 
